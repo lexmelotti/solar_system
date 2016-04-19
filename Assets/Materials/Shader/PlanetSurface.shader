@@ -71,5 +71,5 @@
 		ENDCG
 	}
 
-	FallBack "Bumped Specular"
+	FallBack "Standard"
 }
